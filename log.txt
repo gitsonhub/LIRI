@@ -1,0 +1,509 @@
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+0
+Venue: U.S. Bank Arena
+Location: Cincinnati
+Event Date: 2019-02-27T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+1
+Venue: Times Union Center
+Location: Albany
+Event Date: 2019-03-01T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+2
+Venue: Barclays Center
+Location: Brooklyn
+Event Date: 2019-03-08T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+3
+Venue: PNC Arena
+Location: Raleigh
+Event Date: 2019-03-12T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+4
+Venue: Colonial Life Arena
+Location: Columbia
+Event Date: 2019-03-13T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+5
+Venue: Jacksonville Veterans Memorial Arena
+Location: Jacksonville
+Event Date: 2019-03-15T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+6
+Venue: Tauron Arena
+Location: Kraków
+Event Date: 2019-05-04T18:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+7
+Venue: O2 Arena
+Location: Prague
+Event Date: 2019-05-07T19:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+8
+Venue: Ziggo Dome
+Location: Nieuw-amsterdam
+Event Date: 2019-05-15T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+9
+Venue: Royal Arena
+Location: Copenhagen
+Event Date: 2019-05-18T20:00:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~EVENT INFO for eltonjohn~-~-~-~-~-~
+10
+Venue: Scandinavium
+Location: Goteborg
+Event Date: 2019-05-19T19:30:00
+~-~-~-~-~-~~-~-~-~-~-~-~-~-~-~-~~-~-~-~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+0
+title: Scared of the Dark (feat. XXXTENTACION)
+preview: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+1
+title: Sign of the Times
+preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Harry Styles
+artist(s): Harry Styles
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+2
+title: Impatient
+preview: null
+album: Late Nights: The Album
+artist(s): Jeremih
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+3
+title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+preview: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+4
+title: Scared of the Dark (feat. XXXTENTACION)
+preview: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Lil Wayne
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+5
+title: Scared of the Dark (Remix) [with Ty Dolla $ign and Ozuna, feat. XXXTENTACION] - Remix
+preview: null
+album: Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)
+artist(s): Lil Wayne
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+6
+title: The Light
+preview: null
+album: The Light
+artist(s): Jeremih
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+7
+title: Sign of the Times
+preview: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Sign of the Times
+artist(s): Harry Styles
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+8
+title: Movin’ Up
+preview: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+9
+title: Love U Better (feat. Lil Wayne & The-Dream)
+preview: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Beach House 3
+artist(s): Ty Dolla $ign
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+10
+title: Cinderella (feat. Ty Dolla $ign)
+preview: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: The Divine Feminine
+artist(s): Mac Miller
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+11
+title: The Sign
+preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+12
+title: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+13
+title: Droptop in the Rain (feat. Tory Lanez)
+preview: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Beach House 3
+artist(s): Ty Dolla $ign
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+14
+title: Warning Sign
+preview: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+15
+title: The Other Side (with MAX & Ty Dolla $ign)
+preview: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: The Greatest Showman: Reimagined
+artist(s): MAX
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+16
+title: All That She Wants
+preview: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+17
+title: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+18
+title: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+19
+title: The Light
+preview: null
+album: MIH-TY
+artist(s): Jeremih
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+0
+title: Yesterday - Remastered 2009
+preview: null
+album: Help! (Remastered)
+artist(s): The Beatles
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+1
+title: Yesterday
+preview: null
+album: Evolve
+artist(s): Imagine Dragons
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+2
+title: Red Gold Yesterday
+preview: https://p.scdn.co/mp3-preview/3f9caf0199ce2d9e373dcc37367a1bc541c37eff?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Dawning
+artist(s): LUCHS
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+3
+title: Yesterday
+preview: https://p.scdn.co/mp3-preview/5beb449bea1705e2bf673ef50dca5bd1e2e12f87?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Chillhop Daydreams
+artist(s): chief.
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+4
+title: Footloose
+preview: https://p.scdn.co/mp3-preview/76d526694040f175159223da0122148c93bdca19?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+artist(s): Kenny Loggins
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+5
+title: Yesterday
+preview: https://p.scdn.co/mp3-preview/269a252f1db4b125445ef9c7f8e9d70ed6116888?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]
+artist(s): Atmosphere
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+6
+title: Danger Zone
+preview: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+artist(s): Kenny Loggins
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+7
+title: Just One Yesterday
+preview: null
+album: Save Rock And Roll
+artist(s): Fall Out Boy
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+8
+title: Like Yesterday
+preview: https://p.scdn.co/mp3-preview/533717839d99c3a5df3628cb4b972e8320a6cb89?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Like Yesterday
+artist(s): Paul Cherry
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+9
+title: Yesterday
+preview: https://p.scdn.co/mp3-preview/f6069a3046eaf2de2c74a942fbdf3acd8db10e5f?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Telefone
+artist(s): Noname
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+10
+title: Why iii Love The Moon.
+preview: https://p.scdn.co/mp3-preview/7acc5436ebbdcf5329f29798bb59ef16a2969e7b?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Yesterday's Tomorrow
+artist(s): Phony Ppl
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+11
+title: Yesterday
+preview: https://p.scdn.co/mp3-preview/b38862bcd5cc40eff894663cc9af9a7e2b750894?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Heartless
+artist(s): Moneybagg Yo
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+12
+title: Yesterday
+preview: https://p.scdn.co/mp3-preview/bfd6fc8e3c521e37d910ec77d8153d6526234e2c?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Classics
+artist(s): Brandon Mills
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+13
+title: June, After Dark
+preview: https://p.scdn.co/mp3-preview/f0ebdd2357c5ac60dcc7c6c346c948227ff4d652?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Thoughts From Yesterday
+artist(s): Elliot Root
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+14
+title: Yesterday - Remastered 2015
+preview: null
+album: 1 (Remastered)
+artist(s): The Beatles
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+15
+title: Just One Yesterday
+preview: null
+album: Save Rock And Roll
+artist(s): Fall Out Boy
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+16
+title: Yesterday
+preview: https://p.scdn.co/mp3-preview/c8b39dada500e9183c45c49952806261bbe0dfb8?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Jay Love Japan
+artist(s): J Dilla
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+17
+title: So Yesterday
+preview: null
+album: Metamorphosis
+artist(s): Hilary Duff
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+18
+title: From Yesterday
+preview: null
+album: A Beautiful Lie
+artist(s): Thirty Seconds To Mars
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+19
+title: Only Yesterday
+preview: https://p.scdn.co/mp3-preview/f798824a6f1a32765b304d6aedee7d4d6da80f32?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Only Yesterday
+artist(s): Pretty Lights
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+---------------------------------------------------------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+**********************************************************
+**********MOVIE INFO*********
+Title: Casablanca
+Release Year: 1942
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 97%
+Country of Production: USA
+Language: English, French, German, Italian
+Plot: A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco.
+Actors: Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
+**********************************************************
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+0
+title: Hell Bent for Leather
+preview: https://p.scdn.co/mp3-preview/410eab0818a6ab6215b1fbccf528239baa7dbfc1?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+1
+title: The Green Manalishi (With the Two Pronged Crown)
+preview: https://p.scdn.co/mp3-preview/ec97bbe49b3a17a7fb62c21c10d6701de32411d9?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+2
+title: Before the Dawn
+preview: https://p.scdn.co/mp3-preview/4c4b1a4d084a8720da720aa4b9be0955ff131ec5?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+3
+title: Delivering the Goods
+preview: https://p.scdn.co/mp3-preview/b35dbcd5b91eb7958266aff803974132b1ca4040?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+4
+title: Rawhide
+preview: https://p.scdn.co/mp3-preview/4ec5ba15c9ae2237c8f36bfbf8749c0c3ad4ebb0?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather!
+artist(s): Frankie Laine
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+5
+title: Take on the World
+preview: https://p.scdn.co/mp3-preview/f736dfe8e726ae0463df53ca1b7b17103f648b3d?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+6
+title: Running Wild
+preview: https://p.scdn.co/mp3-preview/274bbdc5edce5f02fca2dc6589a9af8418f125c8?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+7
+title: Rock Forever
+preview: https://p.scdn.co/mp3-preview/02323b4597912865759dd20cffaef552e10ffc8e?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+8
+title: Burnin' Up
+preview: https://p.scdn.co/mp3-preview/4be934ca2d5dca1b1a7a9570d8da1d7834c07a0e?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+9
+title: Killing Machine
+preview: https://p.scdn.co/mp3-preview/55e6454d2650191d7b3d1c5abb5d84608a7b5788?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+10
+title: Evening Star
+preview: https://p.scdn.co/mp3-preview/da4463aeadd9bea33bee6eec62e3ab6574526d8a?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+11
+title: Hell Bent for Leather
+preview: https://p.scdn.co/mp3-preview/bcc935bf2fa8aea8edca542a5c4e167aacfd4072?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: The Essential Judas Priest
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+12
+title: Hell Bent for Leather - Live
+preview: https://p.scdn.co/mp3-preview/98d559f6a63d50e0f821ac2dc0014d442c46ca8a?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Unleashed In The East
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+13
+title: Evil Fantasies
+preview: https://p.scdn.co/mp3-preview/10ddcf26f382f9ae05315a5e002bed760f2b33d8?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+14
+title: Bowie Knife
+preview: https://p.scdn.co/mp3-preview/71645767d9c9b475a8e412d3b6d7eba90357aff0?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather!
+artist(s): Frankie Laine
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+15
+title: Fight for Your Life
+preview: https://p.scdn.co/mp3-preview/a302bccb8cd7495c7f9e392ef84f969b66942c60?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+16
+title: Hell Bent for Leather (from Terminator 2 / Judas Priest cover)
+preview: https://p.scdn.co/mp3-preview/3fcd3d84be2747ad46aeb5f625ba3a55d7afe89a?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Double Brutal
+artist(s): Austrian Death Machine
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+17
+title: Riding on the Wind - Live
+preview: https://p.scdn.co/mp3-preview/ae1b01358de57a31064728d9d4d4a0b7fde36edb?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+18
+title: Hell Bent for Leather - Live
+preview: https://p.scdn.co/mp3-preview/e219e05cf3dcd0b02fbc5931bf541b297f4d6880?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Priest...Live!
+artist(s): Judas Priest
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
+~-~-~-~-~-~SONG INFO~-~-~-~-~-~
+19
+title: Gunfight At the O.K. Corral - Version 2
+preview: https://p.scdn.co/mp3-preview/bf413d2c4486710ee4f3b1369af25505e8a137ad?cid=9a1ea9ed2e4f4eecba62263e98ba3d4a
+album: Hell Bent For Leather!
+artist(s): Frankie Laine
+~-~-~-~-~-~~-~-~-~-~-~~-~-~-~-~-~
